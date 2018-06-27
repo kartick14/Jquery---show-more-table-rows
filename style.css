@@ -1,0 +1,12 @@
+table,
+table th,
+table td {
+  border-collapse: collapse;
+  border: #888 1px solid;
+  padding: 0 5px;
+}
+
+#more {
+  cursor: pointer;
+  background: #eee;
+}
